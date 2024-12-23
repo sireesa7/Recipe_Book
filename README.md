@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Recipe Book
+
+A simple React app where users can add, view, and remove recipes. This app allows users to manage a collection of recipes by adding new ones, viewing their details, and deleting recipes. 
+
+### Features:
+- Add a new recipe with name, ingredients, and instructions.
+- View the list of added recipes.
+- Each recipe can be displayed in a detailed view with a "View" button.
+- Delete recipes from the list.
+- Basic form validation to ensure all fields are filled in before adding a recipe.
+- Search bar to filter recipes by name.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sireesa7/Recipe_Book.git
+
 ## Available Scripts
 
 In the project directory, you can run:
